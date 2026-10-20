@@ -1,0 +1,6 @@
+{
+  "name": "Orlando Dental Center",
+  "description": "Premier cosmetic, general, and emergency dental practice in Orlando, FL led by Dr. Firas Marouf, DMD. Providing implants, veneers, metal-free crowns, and compassionate family dental care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
